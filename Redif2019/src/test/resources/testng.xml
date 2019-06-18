@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="SuiteName">
+	<test name="COMIdTest" allow-return-values="true">
+		<classes>
+			<class name="com.qa.rediff2019.testcases.LoginTest" />
+		</classes>
+	</test>
+</suite>
